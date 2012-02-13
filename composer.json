@@ -8,12 +8,28 @@
         "response"
     ],
     "homepage": "http://auraphp.github.com/Aura.Http",
-    "version": "1.0.0-dev",
+    "version": "1.0.0-beta2",
+    "time": "2012-02-13",
     "license": "BSD",
     "authors": [
         {
-            "name": "Aura Contributors",
+            "name": "Aura.Http Contributors",
             "homepage": "https://github.com/auraphp/Aura.Http/contributors"
+        },
+        {
+            "name": "Paul M. Jones",
+            "email": "pmjones88@gmail.com",
+            "homepage": "http://paul-m-jones.com"
+        },
+        {
+            "name": "Galactic Void",
+            "email": "",
+            "homepage": "https://github.com/galactic-void"
+        },
+        {
+            "name": "Hari KT",
+            "email": "kthari85@gmail.com",
+            "homepage": "http://harikt.com"
         }
     ],
     "require": {
