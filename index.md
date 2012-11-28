@@ -11,11 +11,13 @@ The Aura HTTP package provides objects to build and send HTTP requests and respo
 Versions
 --------
 
-* `develop` <https://github.com/auraphp/Aura.Http/tree/develop>
+- `develop` : <https://github.com/auraphp/Aura.Http/tree/develop>
 
-* `master` <https://github.com/auraphp/Aura.Http>
+- `master` : <https://github.com/auraphp/Aura.Http>
 
-* `1.0.0-beta3` [.zip](https://github.com/auraphp/Aura.Http/zipball/1.0.0-beta3), [.tar.gz](https://github.com/auraphp/Aura.Http/tarball/1.0.0-beta3), [readme](version/1.0.0-beta3/), [api](version/1.0.0-beta3/api/)
+- `1.0.0-beta3` : [.zip](https://github.com/auraphp/Aura.Http/zipball/1.0.0-beta3), [.tar.gz](https://github.com/auraphp/Aura.Http/tarball/1.0.0-beta3), [readme](version/1.0.0-beta3/), [api](version/1.0.0-beta3/api/)
 
-* `1.0.0-beta2` [.zip](https://github.com/auraphp/Aura.Http/zipball/1.0.0-beta2), [.tar.gz](https://github.com/auraphp/Aura.Http/tarball/1.0.0-beta2), [readme](version/1.0.0-beta2/), [api](version/1.0.0-beta2/api/)
+- `1.0.0-beta2` : [.zip](https://github.com/auraphp/Aura.Http/zipball/1.0.0-beta2), [.tar.gz](https://github.com/auraphp/Aura.Http/tarball/1.0.0-beta2), [readme](version/1.0.0-beta2/), [api](version/1.0.0-beta2/api/)
+
+- `1.0.0` : [.zip](https://github.com/auraphp/Aura.Http/zipball/1.0.0), [.tar.gz](https://github.com/auraphp/Aura.Http/tarball/1.0.0), [readme](version/1.0.0/), [api](version/1.0.0/api/)
 
